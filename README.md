@@ -1,1 +1,1 @@
-# Detection-and-severity-calculation-of-rust-in-sorghum-crops-
+# Rust Detection and Severity Estimation in Sorghum Leaves
