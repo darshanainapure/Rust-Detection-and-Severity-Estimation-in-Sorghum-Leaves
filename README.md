@@ -1,1 +1,2 @@
 # Rust Detection and Severity Estimation in Sorghum Leaves
+The project involved developing a model that automatically identifies rust in sorghum leaves from field images. This included meticulously curating and preprocessing a comprehensive dataset of annotated sorghum leaf images, highlighting rust-affected areas. The model also estimates rust severity through image analysis, empowering farmers with early detection capabilities to mitigate crop damage and enhance agricultural productivity.
